@@ -1,4 +1,4 @@
-https://github.com/Karib-Suleymanov/sales-bonus
+https://github.com/Karib-Suleymanov/sales-bonus.git
 
 # Проектная работа "Пряники"
 5 спринт, модуль JS
